@@ -2,7 +2,7 @@
   "name": "Faiz Chrome Tools",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Various modifications for my own use",
+  "description": "Various modifications for my use",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
